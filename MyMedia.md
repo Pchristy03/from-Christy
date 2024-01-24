@@ -24,3 +24,15 @@ This is a table contain some media material that I highly recommend. It contains
 > "Well done is better than well said." *-Benjamin Franklin*
 
 > "You only live once, but if you do it right, once is enough." *-Mae West*
+
+---
+
+# SQL Snippet
+
+This code snippet shows how someone could use the COUNT command in SQL. In this example the COUNT function is used to count the number of rows that match the condition on the last line.
+```
+SELECT COUNT(column_name)
+FROM table_name
+WHERE condition;
+```
+[Snippet Source](https://code.pieces.app/collections/sql)
