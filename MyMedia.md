@@ -16,3 +16,11 @@ This is a table contain some media material that I highly recommend. It contains
 |Clean Code|This is a great first book for beginning programmers. It provides standards and examples of cleanly written code that every programmer should know.|Robert Cecil Martin|
 |Hurt So Good|This is classic song from the 80's. I recommend it because it's widely known and has a great beat.|John Cougar|
 |Heaven|Bryan Adams is a great musician that an rock or love song lover should listen too. His voice is great and his lyrics are even better. |Bryan Adams|
+
+---
+
+## Favorite Quotes
+
+> "Well done is better than well said." *-Benjamin Franklin*
+
+> "You only live once, but if you do it right, once is enough." *-Mae West*
