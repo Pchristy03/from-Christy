@@ -4,10 +4,11 @@ My Favorite song at the moment is "Please Forgive Me" by Bryan Adams. It was rel
 
 [Personal Headshot](./headshot.png)
 
+---
 
-## Recommended Media<br>
+## Recommended Media
 
-***
+This is a table contain some media material that I highly recommend. It contains the title, recommendation summary, and the author of the piece.
 
 | Title | Why Recommend it? | Author |
 |------------|-------------------|--------|
